@@ -1,6 +1,5 @@
-# McLean (2026) Primary Coherence Anchor
-
 # Riverbraid-Cognition: The Refusal Engine (v1.0.0)
+# McLean (2026) Primary Coherence Anchor
 
 ## Overview
 This is the **Aperture** of the Riverbraid Sovereignty Protocol. It is not a dataset-centric learning model; it is a **Rule-and-Anchor** centric meaning processor. 
