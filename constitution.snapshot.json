@@ -1,0 +1,85 @@
+{
+  "sha256": "9172488781ddaac8080282c533c6f638e2b884b47e5dc666f7c98b60a347c73f",
+  "files": [
+    {
+      "file": ".anchor",
+      "hash": "a08339bb9a7257f96ded933bbcd13eb614b68e67580f4ddb320f82059723121b"
+    },
+    {
+      "file": ".github/workflows/integrity.yml",
+      "hash": "cb7277ac89cbfee9e6c39407b2da8c6c4f6fb176e403916ec7388d4bd8e597ad"
+    },
+    {
+      "file": ".gitignore",
+      "hash": "f0086c994ddebbcfb0f916f93f776c76444e9814da869cfe4d98707aae117aa7"
+    },
+    {
+      "file": "LICENSE",
+      "hash": "a8539dae8830b79fad8ea20c8ce71b6c1703fb28b370204b9aef7e0178320c99"
+    },
+    {
+      "file": "README.md",
+      "hash": "c7dba1c579dc3b7d1c8c28099a6b99c0b6a25fdf103382fc946e0187cf94bc17"
+    },
+    {
+      "file": "SPEC.md",
+      "hash": "8b2becbb6603d15d0ebfb41259776cd0b453a70ad69b53e2c22136885dafc23b"
+    },
+    {
+      "file": "TRUTH.md",
+      "hash": "e98ce2e396fd72592cd57bdefb8582257b65c46e9a7f078c3e4d0371677f4641"
+    },
+    {
+      "file": "bin/gate.mjs",
+      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "bin/heartbeat.mjs",
+      "hash": "c0bc8656b364ee5d0535aa09c6fc959c8ea8b0dadfbd7571ad1b2ddab772fe31"
+    },
+    {
+      "file": "bin/run-vectors.cjs",
+      "hash": "8e4bb628e831e04c0e2816dc12fd529b525a8de5923ce2e1ff9f1b2f7d9c501a"
+    },
+    {
+      "file": "gate.mjs",
+      "hash": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "file": "heartbeat.mjs",
+      "hash": "c0bc8656b364ee5d0535aa09c6fc959c8ea8b0dadfbd7571ad1b2ddab772fe31"
+    },
+    {
+      "file": "identity.contract.json",
+      "hash": "1a0795cd3240437d2a7d00d7f48ad31e1581d20ecd48c8467dbeb8e9dbec1b5d"
+    },
+    {
+      "file": "index.js",
+      "hash": "6d748f294d700ad2dce63a8207ff9659c29a571ea895ce4bf9d07370830cad14"
+    },
+    {
+      "file": "logic/coupling.test.js",
+      "hash": "50bd567f1f559b416b931c2550ffe3b0c5c7240c07aa485bad48e12836357a4f"
+    },
+    {
+      "file": "package.json",
+      "hash": "fc966d8747752cab085fbdc46115f23cfa43e4f87ea24ff87e8fcf0019014b13"
+    },
+    {
+      "file": "run-vectors.cjs",
+      "hash": "0918f7b1142d021aefafa973a1cd7dd4f881df27636b00d2d0b53379ac245c07"
+    },
+    {
+      "file": "test-aperture.mjs",
+      "hash": "697e69c01df47a052fcc4c56935c25d6bbe2e820f0895bf055b2dd91ab2a966a"
+    },
+    {
+      "file": "verify.mjs",
+      "hash": "575fcb09655ab78d37d5ebe8d83181e09195e8df4ce34c6f4b6259a705dc8437"
+    },
+    {
+      "file": "verify.py",
+      "hash": "adc8b4ae882d232d7fc199cbc66a58c2d081b9ffb00fb14cf97540432ba24a6c"
+    }
+  ]
+}
