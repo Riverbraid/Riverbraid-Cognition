@@ -1,19 +1,15 @@
----
-title: Riverbraid-Genesis
-version: 1.5.0
-author: Michael John Tilk
-anchor: de2062
-status: Stationary
----
+# Riverbraid Cognition
 
-# Riverbraid-$petal
-**Part of the Riverbraid 10-Petal Cluster**
-- **Merkle Root:** de2062
-- **Status:** Stationary / Fail-Closed
+Cognition and coupling surface for the Riverbraid system.
 
-## The Braid
-- [Core](https://github.com/Riverbraid/Riverbraid-Core) | [Cognition](https://github.com/Riverbraid/Riverbraid-Cognition)
-- [Golds](https://github.com/Riverbraid/Riverbraid-Golds) (Governance Hub)
+## Purpose
+This repository is part of the Riverbraid cluster and exposes a repo specific verification and governance surface.
 
-## Invariants
-Refer to [SPEC.md](./SPEC.md) for the Thermodynamic Signals and Coupling Tests.
+## Verification
+Canonical verifier: `bin/run-vectors.cjs`
+Primary command: `node bin/run-vectors.cjs verify`
+
+## Status
+Version: `1.5.0`
+State: `Stationary / Fail Closed`
+Merkle Root: `de2062`
