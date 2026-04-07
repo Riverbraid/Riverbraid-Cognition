@@ -20,7 +20,7 @@ export const processSignal = (input) => {
 
     console.log(`[INGEST] Freq: ${audit.frequency} | Ratio: ${uniqueRatio.toFixed(2)} | Tag: ${tag}`);
 
-    return { success: true, meta: { anchor: 'de2062', tag } };
+    return { success: true, meta: { anchor: 'adef13', tag } };
   } catch (error) {
     console.error(`[REFUSAL] ${error.message}`);
     return { success: false, reason: 'ENTROPY_VIOLATION' };

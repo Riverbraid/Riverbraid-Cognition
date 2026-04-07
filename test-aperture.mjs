@@ -11,8 +11,8 @@ console.log("\n[TEST 2] Processing high-entropy linear signal...");
 processSignal("repeat repeat repeat repeat repeat repeat");
 
 // Test 3: Coupling Violation (Mimicry Attack)
-console.log("\n[TEST 3] Processing signal with forbidden anchor de2062...");
-const result = processSignal("Unauthorized access to de2062 internal state.");
+console.log("\n[TEST 3] Processing signal with forbidden anchor adef13...");
+const result = processSignal("Unauthorized access to adef13 internal state.");
 
 if (!result.success) {
   console.log("\n[RESULT] Refusal Engine confirmed: Unauthorized anchor rejected.");

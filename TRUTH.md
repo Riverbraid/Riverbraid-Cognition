@@ -8,7 +8,7 @@ All governed logic is purged of environmental entropy.
 
 ### 2. Canonical Fingerprint
 - **GPG Fingerprint:** D9475D6B717D0E6C8EC84F6D8F86D9F4F2B083A4
-- **Merkle Root:** de2062 (Validated 2026-02-25)
+- **Merkle Root:** adef13 (Validated 2026-02-25)
 
 ### 3. Cognitive Signature
 This build represents the transition from Dataset-Centric to Rule-and-Anchor-Centric intelligence. Meaning is primary; tokens are secondary.
