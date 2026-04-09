@@ -1,4 +1,7 @@
 node_modules/
 .DS_Store
-.env
-FETCH_HEAD
+Thumbs.db
+*.log
+*.tmp
+.vscode/
+.idea/
