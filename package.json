@@ -10,7 +10,7 @@
     "prebuild": "node gatekeeper.cjs"
   },
   "engines": {
-    "node": "20.11.0"
+    "node": ">=20.11.0"
   },
   "description": "Cognition and coupling surface for the Riverbraid system."
 }
