@@ -1,0 +1,33 @@
+{
+  "schema": "riverbraid.gold.protocol.steps",
+  "version": "1.0.0",
+  "repo": "Riverbraid-Cognition",
+  "ring": 1,
+  "petal": "Cognition",
+  "invariant": "COGNITION_STATIONARY",
+  "claim_boundary": "declared-conditions-only",
+  "canonical_input": {
+    "repo": "Riverbraid-Cognition",
+    "petal": "Cognition",
+    "ring": 1,
+    "invariant": "COGNITION_STATIONARY"
+  },
+  "expected_result": true,
+  "steps": [
+    "receive canonical stationarity object",
+    "require repo to equal Riverbraid-Cognition",
+    "require petal to equal Cognition",
+    "require ring to equal 1",
+    "require invariant to equal COGNITION_STATIONARY",
+    "emit deterministic verification output"
+  ],
+  "forbidden": [
+    "Date",
+    "Math.random",
+    "randomUUID",
+    "timestamps",
+    "absolute paths",
+    "environment dependent values",
+    "external lookups"
+  ]
+}
