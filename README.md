@@ -1,43 +1,14 @@
 # Riverbraid-Cognition
 
-**Lifecycle category:** canonical
-**Normative source:** Riverbraid-Core
-**Claim boundary:** Declared Conditions Only
+> Lifecycle: ACTIVE  
+> Experimental status: EXPERIMENTAL  
+> Control posture: NONCONTROLLING  
+> Current mechanical reproduction profile: EXCLUDED
 
-## Role in Riverbraid
+Riverbraid-Cognition is an active experimental research surface for cognition- and memory-oriented Riverbraid work. It also preserves the adopted legacy Memory-Gold research fixture migrated during R2.
 
-Riverbraid-Cognition is a canonical support surface within Riverbraid.
+Nothing in this repository defines Riverbraid Core semantics or universal meanings. Experimental findings, models, vocabularies, and relationship predicates remain attributable to this research surface or to a separately declared profile.
 
-This repository represents cognition and reasoning support inside the current Evaluation Kit registry. It preserves cognition-facing verification material as part of the public Riverbraid verification constellation while Riverbraid-Core remains the normative source for protocol semantics.
+Riverbraid does not decide truth, trust, evidentiary weight, legitimacy, risk, readiness, certification, moral priority, or the correct interpretation of evidence.
 
-## Public verification boundary
-
-This repository is part of the current Evaluation Kit canonical verification registry.
-
-Primary public entry point:
-https://github.com/Riverbraid/Riverbraid-Evaluation-Kit
-
-Documentation hub:
-https://github.com/Riverbraid/Riverbraid-Documentation
-
-## Evidence boundary
-
-This repository provides inspectable verification logic. It does not claim certification, legal approval, production readiness, absolute security, external audit, complete AI safety, adoption, or absence of defects.
-
-## Authority boundary
-
-Riverbraid-Core remains the normative source for protocol semantics. This repository does not redefine canonical Riverbraid protocol rules.
-
-## Verification
-
-```bash
-node verify.mjs
-```
-
-## License
-
-MIT.
-
----
-
-**Navigation:** [Evaluation Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit) | [Documentation](https://github.com/Riverbraid/Riverbraid-Documentation) | [System Map](https://github.com/Riverbraid/Riverbraid-Documentation)
+For the current mechanical boundary, see [Riverbraid-Core](https://github.com/Riverbraid/Riverbraid-Core). For the current reproduction profile, see [Riverbraid-Evaluation-Kit](https://github.com/Riverbraid/Riverbraid-Evaluation-Kit).
